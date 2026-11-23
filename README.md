@@ -29,3 +29,9 @@
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | [filesystem-paths-and-filenames.md](01%20-%20linux/3-files-and-rules/filesystem-paths-and-filenames.md) | Файловая система, каталоги, пути, имена и скрытые файлы |
 | [files-and-access-permissions.md](01%20-%20linux/3-files-and-rules/files-and-access-permissions.md) | Пользователи, UID, группы, GID, владелец файла и права r/w/x |
+
+### 4. Регулярные выражения — `4-regular-expressions`
+
+| Файл | Что внутри |
+| --- | --- |
+| [regular-expressions.md](01%20-%20linux/4-regular-expressions/regular-expressions.md) | Шаблоны поиска, классы символов, повторения, группы и примеры с `grep` |
