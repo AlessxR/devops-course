@@ -4,6 +4,7 @@
 
 ### Быстрый доступ
 
+- [Команды Docker и примеры](01%20-%20linux/7-soa-and-docker/docker-commands-and-examples.md) — образы, запуск контейнеров, порты, логи, exec, остановка и удаление.
 - [Практические задания по Linux](01%20-%20linux/practice/linux-fundamentals-exercises.md) — 20 заданий по теории, командам, файлам, потокам и анализу журналов.
 - [Команды и примеры](01%20-%20linux/2-working-in-terminal-and-commands/commands-and-examples.md) — `pwd`, `cd`, `ls`, `touch`, `mkdir`, `rm`, `rmdir`, `cat`, `less`, `cp`, `head`, `wc`, `grep`, `id`, `chmod`.
 - [Ввод, вывод, перенаправления и конвейеры](01%20-%20linux/2-working-in-terminal-and-commands/streams-redirection-and-pipes.md) — `stdin`, `stdout`, `stderr`, `>`, `>>`, `<`, `2>`, `|`.
@@ -48,3 +49,10 @@
 | Файл | Что внутри |
 | --- | --- |
 | [webservices.md](01%20-%20linux/6-webservices/webservices.md) | HTTP, Apache, Nginx, обратный прокси, пакеты, службы, порты, конфигурация сайтов и DNS |
+
+### 7. SOA, виртуализация и Docker — `7-soa-and-docker`
+
+| Файл | Что внутри |
+| --- | --- |
+| [theory.md](01%20-%20linux/7-soa-and-docker/theory.md) | Монолит и сервисы, VM и контейнеры, образы, хранение данных и сеть Docker |
+| [docker-commands-and-examples.md](01%20-%20linux/7-soa-and-docker/docker-commands-and-examples.md) | Отдельный справочник Docker CLI с опциями, примерами и сценарием запуска Nginx |
